@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: patel0ankur/k8s_cicd
 spec:
   type: other
-  lifecycle: unknown
-  owner: patel0ankur
+  lifecycle: production
+  owner: user:default/patel0ankur
